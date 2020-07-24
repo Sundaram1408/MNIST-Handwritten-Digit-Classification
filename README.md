@@ -1,1 +1,1 @@
-# Turning-Handwritten-Documents-into-Digitized-Versions
+# MNIST Handwritten Digit Classification
